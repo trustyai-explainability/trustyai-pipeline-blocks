@@ -1,0 +1,2 @@
+# TrustyAI Pipeline Blocks
+This is a collection of blocks for use in [OpenDataHub's Data Science Pipelines interface](https://github.com/opendatahub-io/data-science-pipelines-operator#using-a-datasciencepipelinesapplication).
